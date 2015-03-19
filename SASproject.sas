@@ -1,6 +1,3 @@
-/*Taiwaree Vannasiri 
-Final Exam
-STAT 6250*/
 
 /*Consider the data set from HW 3 (the one with all 6 cells, called "problem3" in the solutions). In your code, refer to this data set as "problem3".
 
